@@ -1,0 +1,25 @@
+.btn-free-trial {
+  font: 14px "Google Sans", Arial, sans-serif;
+  font-weight: 500;
+  padding: 12px 27px;
+}
+.contact-sales-btn{
+  background: #fff;
+  border: 1px solid #dadce0;
+  color: #1a73e8;
+  padding: 12px 27px!important;
+  font: 14px "Google Sans", Arial, sans-serif;
+  font-weight: 500;
+}
+
+@media (min-width: 684px) {
+  .menu-icon{
+    display: none;
+  }
+}
+
+@media (max-width: 684px) {
+  .text-hide{
+    display: none;
+  }
+}
